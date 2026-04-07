@@ -19,6 +19,8 @@ def Greet():
 
 Welcome()
 
+print("\n------------------------------\n")
+
 print('Choose A Number Between 1 To 25 , & I Want TO Try Guess That....')
 
 start = 1
@@ -49,3 +51,5 @@ while start <= end:
 
 else:
     print("You Cheated ....(0_0)")
+
+print("\n-------------x---------------\n")
