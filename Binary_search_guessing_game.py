@@ -19,9 +19,11 @@ def Greet():
 
 Welcome()
 
-print("\n------------------------------\n")
+print("\n┌----------------------------------------------------------------------┐\n")
 
-print('Choose A Number Between 1 To 25 , & I Want TO Try Guess That....')
+print('\t\t\tChoose A Number Between 1 To 25 , & I Want TO Try Guess That.....')
+
+print("\n└----------------------------------------------------------------------┘\n")
 
 start = 1
 end = 25
